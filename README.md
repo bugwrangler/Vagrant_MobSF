@@ -1,4 +1,7 @@
 # Vagrant_MobSF
+
+I  am not managing this repo any more as docker offical image is avaialble already. 
+
 A Vagrant box based on Ubuntu trusty64 for https://github.com/ajinabraham/Mobile-Security-Framework-MobSF
 
 If you want to quickly try out what this is all about. Your installation will adhere to the default configuration and use the MobSF project. it's just a single command:
